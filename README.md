@@ -4,6 +4,7 @@
 This project is a simple Streamlit application that demonstrates
 how to handle missing values in a dataset using Python.
 
+## project output
 <img width="1347" height="797" alt="Screenshot 2026-01-17 131006" src="https://github.com/user-attachments/assets/232b6f70-598f-444f-8b01-b70e89918db0" />
 
 <img width="1340" height="952" alt="Screenshot 2026-01-17 130946" src="https://github.com/user-attachments/assets/10450156-fe93-4077-bc53-2385521b9553" />
